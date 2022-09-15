@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "yapf",
+    "python.formatting.yapfPath": ".venv/bin/yapf",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+}
