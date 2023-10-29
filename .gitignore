@@ -131,4 +131,8 @@ dmypy.json
 # Data folder
 data/
 charts/
-.DS_store
+.DS_Store
+
+# MLOps
+*.onnx
+onnx/
